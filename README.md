@@ -1,7 +1,7 @@
 [<img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" alt="👋 Welcome to FrancoisCoding!" title="👋 Welcome to FrancoisCoding!"/>](https://francoiscoding.com)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrancoisCoding)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrancoisCoding)](https://github.com/anuraghazra/github-readme-stats)
 - 🖥 𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 💼 Creator of [<img src="https://i.imgur.com/VGCurpA.png" height="30em" align="center" alt="EdgePrim" title="Custom Dashboard"/>](https://chrome.google.com/webstore/detail/custom-dashboard/bmifpdfkcfagigeeeinkmodecjdomhia)
 - 💻 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 to improve myself each and everyday and discover new solutions 
@@ -21,7 +21,7 @@
 [<img src="https://i.imgur.com/sgxPd0E.jpg?1" height="40em" align="center" alt="Follow FrancoisCoding on LinkedIn" title="Follow FrancoisCoding on LinkedIn"/>](https://www.linkedin.com/in/francoiscoding/)
 
 ## 👥 Visitors
-![Visitor Count](https : //profile-counter.glitch.me/FrancoisCoding/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/FrancoisCoding/count.svg)]
 
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
 - Visitor Counter from [Visitor Count](https://profile-counter.glitch.me/FrancoisCoding/count.svg)
