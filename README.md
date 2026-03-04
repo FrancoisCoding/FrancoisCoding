@@ -3,7 +3,6 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrancoisCoding)](https://github.com/anuraghazra/github-readme-stats)
 - 🖥 𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 💼 Creator of [<img src="https://i.imgur.com/VGCurpA.png" height="30em" align="center" alt="EdgePrim" title="Custom Dashboard"/>](https://chrome.google.com/webstore/detail/custom-dashboard/bmifpdfkcfagigeeeinkmodecjdomhia)
 - 💻 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 to improve myself each and everyday and discover new solutions 
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚋𝚎𝚕𝚘𝚠 
 
