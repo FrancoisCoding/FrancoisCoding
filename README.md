@@ -1,28 +1,146 @@
-[<img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" alt="👋 Welcome to FrancoisCoding!" title="👋 Welcome to FrancoisCoding!"/>](https://francoiscoding.com)
+<h1 align="center">Isaiah Francois</h1>
+<h3 align="center">Senior Full Stack Engineer • React • Next.js • TypeScript</h3>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrancoisCoding)](https://github.com/anuraghazra/github-readme-stats)
-- 🖥 𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 💻 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 to improve myself each and everyday and discover new solutions 
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚋𝚎𝚕𝚘𝚠 
+<p align="center">
+Building scalable platforms, modern web applications, and developer-focused tools.
+</p>
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🎯 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 DevChat(Slack Clone) 𝚊𝚗𝚍 𝚝𝚑𝚒𝚜 𝚁𝙴𝙰𝙳𝙼𝙴!
+<p align="center">
+<a href="https://github.com/FrancoisCoding">
+<img src="https://komarev.com/ghpvc/?username=FrancoisCoding&label=Profile%20views&color=0e75b6&style=flat"/>
+</a>
+<a href="https://github.com/FrancoisCoding?tab=followers">
+<img src="https://img.shields.io/github/followers/FrancoisCoding?label=Followers&style=social"/>
+</a>
+</p>
 
-## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
-1. 🗣 Development on [#DevChat](https://github.com/FrancoisCoding/Slack-Clone/commits/master) in [FrancoisCoding/Slack-Clone](https://github.com/FrancoisCoding/Slack-Clone/)
-<!--END_SECTION:activity-->
+---
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
+# 👋 About Me
 
-[<img src="https://i.imgur.com/sgxPd0E.jpg?1" height="40em" align="center" alt="Follow FrancoisCoding on LinkedIn" title="Follow FrancoisCoding on LinkedIn"/>](https://www.linkedin.com/in/francoiscoding/)
+I'm a **Senior Full Stack Engineer with 8+ years of experience** building high-performance web platforms and developer tools.
 
-## 👥 Visitors
-[![Visitor Count](https://profile-counter.glitch.me/FrancoisCoding/count.svg)]
+I specialize in **modern web architecture, scalable frontend systems, and clean developer experiences**.
 
-## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
-- Visitor Counter from [Visitor Count](https://profile-counter.glitch.me/FrancoisCoding/count.svg)
-- Github Stats Card 𝚏𝚛𝚘𝚖 [Anurag's github stats](https://github.com/anuraghazra/github-readme-stats)
-- 𝙶𝚒𝚝𝙷𝚞𝚋 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚌𝚝𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚓𝚊𝚖𝚎𝚜𝚐𝚎𝚘𝚛𝚐𝚎00𝟽/𝚐𝚒𝚝𝚑𝚞𝚋-𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢-𝚛𝚎𝚊𝚍𝚖𝚎](https://github.com/jamesgeorge007/github-activity-readme)
+I’ve contributed to platforms used by organizations such as:
+
+* **Disney**
+* **Department of Defense**
+* **MassVirtual**
+
+My focus is building **fast, scalable, and maintainable applications** using modern technologies.
+
+---
+
+# 🚀 Current Focus
+
+* Building modern SaaS platforms
+* Developing **FinanceFlow** — a modern personal finance platform
+* Creating scalable developer tooling and automation systems
+
+🌐 **FinanceFlow:**
+https://www.financeflow.dev/
+
+---
+
+# 🧠 Technical Stack
+
+### Frontend
+
+```
+React • Next.js • TypeScript • Vue • Tailwind • ShadCN • Radix
+```
+
+### Backend
+
+```
+Node.js • Python • Django • Koa • Express
+```
+
+### Databases
+
+```
+PostgreSQL • Snowflake • Firebase • Supabase
+```
+
+### DevOps / Tooling
+
+```
+Docker • GitHub Actions • GitLab CI/CD • Datadog • New Relic
+Playwright • Jest • ESLint • Prettier
+```
+
+### Cloud / Infrastructure
+
+```
+AWS • Azure • Serverless • CDN Architecture
+```
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FrancoisCoding&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoisCoding&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌎 Featured Work
+
+### FinanceFlow
+
+A modern financial dashboard for tracking spending, investments, and financial health.
+
+**Tech Stack**
+
+Next.js • TypeScript • Prisma • PostgreSQL • Supabase
+
+🔗 https://www.financeflow.dev/
+
+---
+
+### Enterprise Forecasting Platform
+
+Viewership forecasting system used for large-scale media planning and analytics.
+
+**Tech Stack**
+
+Next.js • Django • Snowflake • React Query • Data Visualization
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/francoiscoding">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:francoiscoding@yahoo.com">
+<img src="https://img.shields.io/badge/Email-francoiscoding@yahoo.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.financeflow.dev/">
+<img src="https://img.shields.io/badge/FinanceFlow-Website-black?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Philosophy
+
+Great software is built through:
+
+• Clean architecture
+• Scalable systems
+• Excellent developer experience
+• Thoughtful UI/UX design
+
+My goal is to build products that are **fast, maintainable, and impactful**.
